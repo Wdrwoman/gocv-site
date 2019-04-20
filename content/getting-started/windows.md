@@ -29,6 +29,8 @@ Add the `C:\Program Files\mingw-w64\x86_64-7.3.0-posix-seh-rt_v5-rev2\mingw64\bi
 
 Download and install CMake [https://cmake.org/download/](https://cmake.org/download/) to the default location. CMake installer will add CMake to your system path.
 
+Add the `C:\Program Files\CMake\bin` path to your System Path.
+
 #### OpenCV 4.0.1 and OpenCV Contrib Modules
 
 The following commands should do everything to download and install OpenCV 4.0.1 on Windows:
